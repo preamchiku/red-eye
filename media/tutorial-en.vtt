@@ -1,0 +1,259 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:01.371
+This is RED EYE:
+
+00:00:01.371 --> 00:00:03.667
+a free caption and video editor that
+
+00:00:03.667 --> 00:00:05.390
+runs right in your browser.
+
+00:00:06.040 --> 00:00:08.085
+It now looks like a pro editor,
+
+00:00:08.085 --> 00:00:09.140
+with four pages:
+
+00:00:09.140 --> 00:00:10.130
+Edit, Subtitle,
+
+00:00:10.130 --> 00:00:11.317
+Audio and Deliver.
+
+00:00:11.317 --> 00:00:12.505
+Let's make a reel,
+
+00:00:12.505 --> 00:00:13.560
+start to finish.
+
+00:00:14.009 --> 00:00:15.026
+Open the editor.
+
+00:00:15.026 --> 00:00:17.187
+The Project Manager shows all your
+
+00:00:17.187 --> 00:00:18.140
+saved projects.
+
+00:00:18.140 --> 00:00:20.174
+Press Shift 1, or click the Home
+
+00:00:20.174 --> 00:00:22.399
+button, to come back here any time.
+
+00:00:22.852 --> 00:00:24.193
+Click New Project,
+
+00:00:24.193 --> 00:00:26.131
+and pick the Reels preset:
+
+00:00:26.131 --> 00:00:28.962
+1080 by 1920, at 30 frames per second.
+
+00:00:29.414 --> 00:00:30.404
+Give it a name,
+
+00:00:30.404 --> 00:00:31.526
+and click Create.
+
+00:00:31.526 --> 00:00:34.034
+Your project saves itself as you work.
+
+00:00:41.760 --> 00:00:43.129
+This is the Edit page.
+
+00:00:43.129 --> 00:00:44.249
+In the Media Pool,
+
+00:00:44.249 --> 00:00:46.490
+click Import, and choose your clips.
+
+00:00:46.940 --> 00:00:48.889
+Click a clip to see it in the Source
+
+00:00:48.889 --> 00:00:50.406
+viewer. The Timeline viewer,
+
+00:00:50.406 --> 00:00:52.030
+on the right, plays your edit.
+
+00:00:52.479 --> 00:00:54.901
+Your clips sit on the timeline:
+
+00:00:54.901 --> 00:00:56.854
+video on V1, sound on A1,
+
+00:00:56.854 --> 00:00:59.510
+and captions on their own subtitle
+
+00:00:59.510 --> 00:01:00.369
+track, ST1.
+
+00:01:00.823 --> 00:01:03.327
+Select a clip, and the Inspector shows
+
+00:01:03.327 --> 00:01:04.579
+its settings: zoom,
+
+00:01:04.579 --> 00:01:05.567
+position, crop,
+
+00:01:05.567 --> 00:01:06.753
+opacity and speed.
+
+00:01:07.204 --> 00:01:08.555
+Press B for the Blade,
+
+00:01:08.555 --> 00:01:10.213
+and click a clip to cut it.
+
+00:01:10.213 --> 00:01:12.178
+Press A to go back to Selection.
+
+00:01:12.178 --> 00:01:14.204
+Control B splits at the playhead.
+
+00:01:14.655 --> 00:01:17.536
+Press I and O to mark an In and an
+
+00:01:17.536 --> 00:01:19.230
+Out. Made a mistake?
+
+00:01:19.230 --> 00:01:20.925
+Control Z undoes it.
+
+00:01:21.376 --> 00:01:23.131
+Now open the Subtitle page,
+
+00:01:23.131 --> 00:01:24.691
+and click Auto subtitle.
+
+00:01:24.691 --> 00:01:26.511
+The AI writes your captions,
+
+00:01:26.511 --> 00:01:27.876
+right on your device.
+
+00:01:28.371 --> 00:01:30.658
+Every line is timed to the speech.
+
+00:01:30.658 --> 00:01:32.811
+Click any line to edit the text.
+
+00:01:33.262 --> 00:01:35.199
+Then pick a style and a font.
+
+00:01:35.199 --> 00:01:37.202
+The preview updates instantly.
+
+00:01:43.814 --> 00:01:45.658
+Made a typo? Run Spell check.
+
+00:01:45.658 --> 00:01:47.820
+It finds mistakes and suggests the
+
+00:01:47.820 --> 00:01:48.074
+fix.
+
+00:01:48.525 --> 00:01:49.965
+Or use the voice box.
+
+00:01:49.965 --> 00:01:51.747
+Tap the mic, say the word,
+
+00:01:51.747 --> 00:01:53.187
+and RED EYE types it,
+
+00:01:53.187 --> 00:01:55.655
+with other spellings to choose from.
+
+00:01:58.887 --> 00:02:00.014
+On the Audio page,
+
+00:02:00.014 --> 00:02:02.081
+Clean up voice removes background
+
+00:02:02.081 --> 00:02:03.521
+noise from your speech.
+
+00:02:03.521 --> 00:02:04.711
+Pick Light, Medium,
+
+00:02:04.711 --> 00:02:05.337
+or Strong.
+
+00:02:05.789 --> 00:02:08.020
+Open the Mixer to see your track
+
+00:02:08.020 --> 00:02:10.461
+levels, so voice and music sit just
+
+00:02:10.461 --> 00:02:10.879
+right.
+
+00:02:11.331 --> 00:02:12.306
+When you're done,
+
+00:02:12.306 --> 00:02:13.626
+go to the Deliver page,
+
+00:02:13.626 --> 00:02:15.691
+and pick the Instagram Reels preset.
+
+00:02:16.142 --> 00:02:18.297
+Set an In and an Out to render just
+
+00:02:18.297 --> 00:02:19.652
+part of your timeline,
+
+00:02:19.652 --> 00:02:21.315
+or leave it clear to render
+
+00:02:21.315 --> 00:02:21.992
+everything.
+
+00:02:22.443 --> 00:02:24.118
+Click Add to Render Queue,
+
+00:02:24.118 --> 00:02:25.149
+then Render All.
+
+00:02:25.149 --> 00:02:27.533
+Your MP4 is saved when it's finished.
+
+00:02:30.516 --> 00:02:32.929
+RED EYE also comes as an app for Mac,
+
+00:02:32.929 --> 00:02:34.690
+Windows, Linux and Android.
+
+00:02:34.690 --> 00:02:36.973
+Get it from the Download section of
+
+00:02:36.973 --> 00:02:37.756
+the website.
+
+00:02:38.209 --> 00:02:39.359
+And in Settings,
+
+00:02:39.359 --> 00:02:42.019
+Make fully offline downloads every AI
+
+00:02:42.019 --> 00:02:43.959
+model, about 1.6 gigabytes,
+
+00:02:43.959 --> 00:02:46.044
+so captions, voice typing and
+
+00:02:46.044 --> 00:02:48.272
+background removal work with no
+
+00:02:48.272 --> 00:02:48.919
+internet.
+
+00:02:50.523 --> 00:02:51.981
+That's RED EYE.
+
+00:02:51.981 --> 00:02:55.383
+Try it free at redeye-cq1.pages.dev

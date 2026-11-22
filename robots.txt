@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /gpu-backend/
+
+Sitemap: https://redeye-cq1.pages.dev/sitemap.xml
